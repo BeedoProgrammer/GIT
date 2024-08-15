@@ -10,4 +10,7 @@ public:
     void eat(){
         std::cout<<"I am eating";
     }
+    void sleep(){
+        std::cout<<"I am sleeping";
+    }
 };
